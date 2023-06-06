@@ -34,6 +34,6 @@ In all, it is absolutely necessary for students like us to become conscientious 
 5. Correlation between address (rural, urban) and student performance (Tyler):
     * The geographical location of the students may have some influence on a student and their decision to consume alcohol. The rationale behind this query is that some rural areas may have a small town environment which could allow for more consideration for minors within the town.When compared to urban metropolises which may have more lax rules and have less consideration for minors. This data set has categorized between ‘U’, urban, or ‘R’ rural. 
 
-6.Correlation between sex (male, female) and student performance (Tyler):
+6. Correlation between sex (male, female) and student performance (Tyler):
     * In this dataset it also includes the sex of the individuals who took part in this survey
 which I believe the sex of the individual may provide some insight into the decision making. Alongside the direct correlation this dataset also includes the reasons for drinking which we may be able to pull some insight into why certain sex’s drink and be able to directly provide support via their sex. This data set has categorized between ‘F’, female or ‘M’ male,
