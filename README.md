@@ -1,6 +1,13 @@
 # INFO 330 Final Project, Group 7
 ## Jordan Lee, Tyler Ramos, Jesus Vargas
 
+### Directory
+* README.md: contains project proposal as content, gives insight on the database we will be working with
+* create-import.sql: contains sql code for table creations and importing values into db
+* Info330Project-Group7.db: database containing data and made off our schema
+* queries: contains all queries written by each individual
+* visuals: contains all visuals created by each individual
+
 ## The Problem:
 Exploring the rationale behind a student's alcohol consumption and the effects of alcoholism on academics is indeed an important topic. Abuse of alcohol can have a multitude of negative impacts on students' general health at a time when their bodies should be functioning at their best, in addition to their capacity to learn and grow. Given this statement, the issue lies in deciphering and understanding the primary reason why a student chooses to consume alcohol. Whether for social reasons, coping mechanisms, or peer pressure, everyone has a different reason for why they consume alcohol or why not. To that end, let's delve deeper and consider some possible factors that can contribute to a student's decision to consume alcohol.
 
