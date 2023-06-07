@@ -5,6 +5,8 @@
 * README.md: contains project proposal as content, gives insight on the database we will be working with
 * create-import.sql: contains sql code for table creations and importing values into db
 * Info330Project-Group7.db: database containing data and made off our schema
+* Info-330, Project ERD.png: ERD of our schema
+* Final Project - Group 7.pdf: PDF version of our presentation slides
 * queries: contains all queries written by each individual
 * visuals: contains all visuals created by each individual
 
